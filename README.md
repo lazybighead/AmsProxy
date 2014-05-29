@@ -2,3 +2,5 @@
 ========================
 
 [http://xsh.gxun.edu.cn/ams/](http://xsh.gxun.edu.cn/ams/)
+
+moved to [https://github.com/xshwz/AmsProxy](https://github.com/xshwz/AmsProxy)
